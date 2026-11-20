@@ -14,7 +14,8 @@
 
 
 
-### Image Preprocessing [File Name](image-preprocessing.md)
+
+### [1. Image Preprocessing](image-preprocessing.md)
 
 
 
